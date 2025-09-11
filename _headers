@@ -1,4 +1,4 @@
 /*.xml
   Content-Type: application/xml
-
-
+  Access-Control-Allow-Origin: *
+  Access-Control-Allow-Methods: GET, OPTIONS
