@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <VAST
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="vast.xsd" version="2.0">
-	<Ad id="7031606280" sequence="1">
+	<Ad id="7031606280">
 		<InLine>
 			<AdSystem>GDFP</AdSystem>
 			<AdTitle>IMA video ad 1x1v Non Skip</AdTitle>
@@ -194,7 +194,7 @@
 			</Extensions>
 		</InLine>
 	</Ad>
-	<Ad id="6931571482" sequence="2">
+	<Ad id="6931571482">
 		<InLine>
 			<AdSystem>GDFP</AdSystem>
 			<AdTitle>IMA video ad 1x1v horizontal</AdTitle>
@@ -392,7 +392,7 @@
 			</Extensions>
 		</InLine>
 	</Ad>
-	<Ad id="7031606280" sequence="3">
+	<Ad id="7031606280">
 		<InLine>
 			<AdSystem>GDFP</AdSystem>
 			<AdTitle>IMA video ad 1x1v Non Skip</AdTitle>
