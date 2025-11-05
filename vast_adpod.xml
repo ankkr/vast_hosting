@@ -297,13 +297,13 @@
 						</VideoClicks>
 						<MediaFiles>
 							<MediaFile id="GDFP" delivery="progressive" width="640" height="320" type="video/mp4" bitrate="353" scalable="true" maintainAspectRatio="true">
-								<![CDATA[ https://redirector.gvt1.com/videoplayback/id/9d0f921cd5751153/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/ctier/L/cpn/lQZmrBcGuioTGyQ0/ip/0.0.0.0/ipbits/0/expire/1793874251/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,ctier/signature/23FC7853E81B7A067FC4428137037047C770861A.6485CEAC92046DAC5C27437F0F07BF037AF130B5/key/ck2/file/file.mp4 ]]>
+								<![CDATA[ https://redirector.gvt1.com/rferfvrvideoplayback/id/9d0f921cd5751153/itag/18/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/ctier/L/cpn/lQZmrBcGuioTGyQ0/ip/0.0.0.0/ipbits/0/expire/1793874251/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,ctier/signature/23FC7853E81B7A067FC4428137037047C770861A.6485CEAC92046DAC5C27437F0F07BF037AF130B5/key/ck2/file/file.mp4 ]]>
 							</MediaFile>
 							<MediaFile id="GDFP" delivery="streaming" width="256" height="128" type="application/x-mpegURL" bitrate="270" scalable="true" maintainAspectRatio="true">
-								<![CDATA[ https://redirector.gvt1.com/api/manifest/hls_variant/id/9d0f921cd5751153/itag/0/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/playlist_type/DVR/hfr/all/acao/yes/ctier/L/keepalive/yes/cpn/lQZmrBcGuioTGyQ0/ip/0.0.0.0/ipbits/0/expire/1793874251/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,playlist_type,hfr,acao,ctier/signature/5183F80D54125F3DF3FB447E559BC237BC3EA532.8880D2AA60F59F601BBD7E361F1AA038E22E84FC/key/ck2/file/index.m3u8 ]]>
+								<![CDATA[ https://redirector.gvt1.com/api/fervfrefvrmanifest/hls_variant/id/9d0f921cd5751153/itag/0/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/playlist_type/DVR/hfr/all/acao/yes/ctier/L/keepalive/yes/cpn/lQZmrBcGuioTGyQ0/ip/0.0.0.0/ipbits/0/expire/1793874251/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,playlist_type,hfr,acao,ctier/signature/5183F80D54125F3DF3FB447E559BC237BC3EA532.8880D2AA60F59F601BBD7E361F1AA038E22E84FC/key/ck2/file/index.m3u8 ]]>
 							</MediaFile>
 							<MediaFile id="GDFP" delivery="streaming" width="0" height="0" type="application/dash+xml" scalable="true" maintainAspectRatio="true">
-								<![CDATA[ https://redirector.gvt1.com/api/manifest/dash/id/9d0f921cd5751153/itag/0/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/ctier/L/playlist_type/DVR/hfr/all/keepalive/yes/cpn/lQZmrBcGuioTGyQ0/ip/0.0.0.0/ipbits/0/expire/1793874251/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,ctier,playlist_type,hfr/signature/970286A71EAF4B1A986184C7A0C6086E9C76E41F.0BA66F8FE7A4437303F47CFF44C9C2FBA9A315DE/key/ck2/file/index.mpd ]]>
+								<![CDATA[ https://redirector.gvt1.com/api/fvervfdvmanifest/dash/id/9d0f921cd5751153/itag/0/source/dclk_video_ads/requiressl/yes/xpc/EgVovf3BOg%3D%3D/acao/yes/ctier/L/playlist_type/DVR/hfr/all/keepalive/yes/cpn/lQZmrBcGuioTGyQ0/ip/0.0.0.0/ipbits/0/expire/1793874251/sparams/ip,ipbits,expire,id,itag,source,requiressl,xpc,acao,ctier,playlist_type,hfr/signature/970286A71EAF4B1A986184C7A0C6086E9C76E41F.0BA66F8FE7A4437303F47CFF44C9C2FBA9A315DE/key/ck2/file/index.mpd ]]>
 							</MediaFile>
 						</MediaFiles>
 					</Linear>
